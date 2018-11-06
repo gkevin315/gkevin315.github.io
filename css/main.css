@@ -52,12 +52,12 @@
     transition: all 0.5s ease-out; }
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
-    .menu-branding .portrait {
+    /* .menu-branding .portrait {
       width: 250px;
       height: 250px;
       background: url("../img/22822555_300x300.jpg");
       border-radius: 600%;
-      border: solid 6px #eece1a; }
+      border: solid 6px #eece1a; } */
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
